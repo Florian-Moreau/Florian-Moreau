@@ -19,6 +19,7 @@ Afin d'automatiser certaines tâches récurrentes, j'utilise PowerShell pour cr�
 - Visual Studio Code
 - Git & GitHub
 - Windows
+- Copilot
 
 ## Objectif
 
